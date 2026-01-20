@@ -1,0 +1,8 @@
+{
+  "name": "Astra AI - Future of Creativity",
+  "description": "A high-performance, visually stunning landing page for a futuristic AI SaaS platform, featuring interactive components and real-time AI generation powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
